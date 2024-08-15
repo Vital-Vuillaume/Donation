@@ -1,6 +1,6 @@
 # Support Us with Bitcoin!
 
-We’re thrilled that you’re considering supporting our project with a Bitcoin donation. Every contribution is valuable and helps us continue our mission successfully.
+I am thrilled that you’re considering supporting our project with a Bitcoin donation. Every contribution is valuable and helps us continue our mission successfully.
 
 ![Bitcoin Icon](https://cdn-icons-png.flaticon.com/512/3667/3667556.png)
 
