@@ -25,7 +25,7 @@ body {
 
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 300px;
     transform: translate(-50%, -50%);
     width: 420px;
     height: auto;
@@ -98,5 +98,13 @@ body {
     width: 300px;
     height: 300px;
     top: 0px;
+
+}
+
+.footer {
+
+    text-decoration: none;
+    top: 300px;
+    color: white;
 
 }
