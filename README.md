@@ -1,4 +1,4 @@
-# Support Us with Bitcoin!
+# Support me with Bitcoin!
 
 I am thrilled that you’re considering supporting our project with a Bitcoin donation. Every contribution is valuable and helps us continue our mission successfully.
 
