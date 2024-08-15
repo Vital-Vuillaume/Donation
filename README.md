@@ -2,13 +2,13 @@
 
 I am thrilled that you’re considering supporting our project with a Bitcoin donation. Every contribution is valuable and helps us continue our mission successfully.
 
-![Bitcoin Icon](https://cdn-icons-png.flaticon.com/512/3667/3667556.png)
+![](https://cdn-icons-png.flaticon.com/512/3667/3667556.png)
 
 ## How to Make a Donation
 
 To donate in Bitcoin, you can use the QR code or send your funds directly to the provided Bitcoin address. We’ve streamlined the process to make it quick and easy for you to contribute.
 
-![Bitcoin QR Code](https://image.freepik.com/free-vector/modern-yellow-bitcoin-design_1017-9631.jpg)
+![](https://image.freepik.com/free-vector/modern-yellow-bitcoin-design_1017-9631.jpg)
 
 ---
 
