@@ -1,8 +1,8 @@
 //------Https------\\
 
-/*if (window.location.protocol != "https:") {
+if (window.location.protocol != "https:") {
   window.location.protocol="https:";
-}*/
+}
 
 const blockImg = document.querySelector(".blockImg");
 const btn = document.querySelector(".imgCopie");

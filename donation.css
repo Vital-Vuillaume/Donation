@@ -18,6 +18,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url(bg.png);
+    background-attachment: fixed;
 
 }
 
@@ -27,7 +28,6 @@ body {
     left: 50%;
     top: 300px;
     transform: translate(-50%, -50%);
-    height: auto;
 
 }
 
@@ -53,7 +53,7 @@ body {
 
 .txtBtc {
 
-    bottom: 55px;
+    bottom: 25px;
     font-size: 1.45em;
 
 }
@@ -61,7 +61,7 @@ body {
 .blockImg {
 
     cursor: pointer;
-    bottom: -50px;
+    top: 10px;
 
 }
 
@@ -86,7 +86,7 @@ body {
 
     width: 200px;
     height: 200px;
-    top: 150px;
+    top: 210px;
     cursor: pointer;
     transition: 1.7s;
 
@@ -103,7 +103,7 @@ body {
 .footer {
 
     text-decoration: none;
-    top: 300px;
+    top: 390px;
     color: white;
 
 }
